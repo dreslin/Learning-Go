@@ -3,7 +3,8 @@ package main
 
 import (
 	"fmt"
-	"src/keyboard"
+
+	"github.com/dreslin/Learning-Go/keyboard"
 )
 
 func main() {
